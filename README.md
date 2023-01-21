@@ -1,1 +1,4 @@
 # BellyButtonBiodiversity
+
+## Determining Potential Candidates
+How we consume food as a species moving forward has changed drastically and will continue to do so.  One of these future changes is finding new ways to produce food without being reliant on current, unsustainable habits, and for this project specifially we are looking at bacteria that are capable of producing proteins similar to those found in beef.  It is thought that these bacteria may live in the belly buttons of human beings and as such subjects were select to document the proteins inhabiting their navel.  The purpose of this project is to publicly display those results so that researchers could identify prominent bacterial species and futhermore, help subjects know if they could sell these their navel dwelling cultures for their own profit.
